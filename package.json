@@ -1,7 +1,7 @@
 {
-  "name": "stripe-wrg",
-  "version": "1.0.0",
-  "description": "Generate a template-based receipt from Stripe's webhook.",
+  "name": "stripe-rpg",
+  "version": "0.0.1",
+  "description": "Generate a template-based receipt pdf from Stripe",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,7 +16,12 @@
   "author": "So.I <main@sokz.net> (https://github.com/sokz5)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sokz5/stripe-wrg/issues"
+    "url": "https://github.com/sokz5/stripe-rpg/issues"
   },
-  "homepage": "https://github.com/sokz5/stripe-wrg#readme"
+  "homepage": "https://github.com/sokz5/stripe-rpg#readme",
+  "private": true,
+  "dependencies": {
+    "stripe": "^8.202.0",
+    "wkhtmltopdf": "^0.4.0"
+  }
 }
