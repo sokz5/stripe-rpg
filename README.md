@@ -1,2 +1,2 @@
-# stripe-wrg
-Stripe Webhook Receipt Generator
+# stripe-rpg
+Stripe Receipt Pdf Generator
