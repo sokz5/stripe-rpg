@@ -1,0 +1,22 @@
+{
+  "name": "stripe-wrg",
+  "version": "1.0.0",
+  "description": "Generate a template-based receipt from Stripe's webhook.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokz5/stripe-wrg.git"
+  },
+  "keywords": [
+    "stripe",
+    "receipt",
+    "generate",
+    "pdf"
+  ],
+  "author": "So.I <main@sokz.net> (https://github.com/sokz5)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sokz5/stripe-wrg/issues"
+  },
+  "homepage": "https://github.com/sokz5/stripe-wrg#readme"
+}
